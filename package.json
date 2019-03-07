@@ -1,0 +1,9 @@
+{
+	"name": "work",
+	"bing": {
+		"work": "work"
+	},
+	"dependencies": {
+		"inquirer": "^6.2.0"
+	}
+}
